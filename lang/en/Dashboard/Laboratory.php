@@ -1,0 +1,37 @@
+<?php
+
+
+return [
+    'Laboratory'=>'Laboratory',
+    'display'=>'Display Laboratory',
+    'add'=>'Add New Laboratory',
+    'name'=>'Name',
+    'email'=>'Email',
+    'password'=>'password',
+    'con_pass'=>'confirm password',
+    'created_at'=>'Created at',
+    'action'=>'Action',
+    'edit'=>'Edit Laboratory Details',
+    'delete'=>'Delete Laboratory Details',
+    'save'=>'Save',
+    'update'=>'Update',
+    'save'=>'Save',
+    'Laboratory_statements'=>'Laboratory statements',
+    'mesg'=>'Are you sure you  to delete this Laboratory Detail?',
+    'Transfer_to_laboratory'=>'Transfer To Laboratory',
+    'mesg_1'=>'Are you sure you want to delete laboratory data?',
+    'mesg_2'=>'Delete laboratory details',
+    'Dashboard'=>'Laboratory staff control panel',
+    'welcome'=>'Welcome back again',
+    'total_number_of_invoices'=>'Total number of invoices',
+    'the_total_number_of_invoices_under_processing'=>'The total number of invoices under processing',
+    'total_number_of_completed_invoices'=>'Total number of completed invoices',
+    'last_5_invoices'=>'The last 5 invoices on system',
+    "invoice_date"=>"Invoice date",
+    "Patient_name"=>"Patient's name",
+    "doctor_name"=>"Doctor's name",
+    "required"=>"Description",
+    "Invoice_status"=>"Invoice status",
+    'completed_invoices'=>'Completed invoices',
+    'no_data'=>'No data found'
+];
